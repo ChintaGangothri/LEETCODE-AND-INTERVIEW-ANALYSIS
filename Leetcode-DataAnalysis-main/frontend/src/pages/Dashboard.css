@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #eef2ff;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+
+.sidebar {
+  width: 250px;
+  background: white;
+  padding: 25px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+}
+
+.sidebar h2 {
+  color: #6366f1;
+  margin-bottom: 40px;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar li {
+  margin-bottom: 15px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #444;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.sidebar a:hover {
+  color: #6366f1;
+}
+
+/* Main */
+
+.main {
+  flex: 1;
+  padding: 25px;
+}
+
+/* Header */
+
+.header {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.header h1 {
+  color: #4f46e5;
+}
+
+/* Cards */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(220px, 1fr)
+  );
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  padding: 25px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.card h3 {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.card h2 {
+  color: #4f46e5;
+  margin-bottom: 10px;
+  font-size: 32px;
+}
+
+.card p {
+  color: #555;
+  margin-top: 5px;
+}
+
+/* Top Charts */
+
+.top-charts {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* Bottom Charts */
+
+.bottom-grid {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* Chart Box */
+
+.chart-box {
+  background: white;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  height: 450px;
+}
+
+.chart-box h2 {
+  color: #4f46e5;
+  margin-bottom: 20px;
+}
+
+/* Responsive */
+
+@media (max-width: 1000px) {
+
+  .top-charts {
+    grid-template-columns: 1fr;
+  }
+
+  .bottom-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .main {
+    padding: 15px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,39 @@
+.company-container {
+  padding: 30px;
+}
+
+.company-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #4f46e5;
+}
+
+.company-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.company-table th {
+  background: #4f46e5;
+  color: white;
+  padding: 14px;
+  text-align: left;
+}
+
+.company-table td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.company-table tr:hover {
+  background: #f5f7ff;
+}
+
+.company-table tr:nth-child(even) {
+  background: #fafafa;
+}

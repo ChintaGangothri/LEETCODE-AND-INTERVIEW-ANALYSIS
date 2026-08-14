@@ -1,0 +1,86 @@
+/* Page */
+
+.problems-container {
+  padding: 30px;
+  background-color: #f5f7fb;
+  min-height: 100vh;
+}
+
+.problems-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 25px;
+}
+
+/* Table Box */
+
+.table-container {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  overflow-x: auto;
+}
+
+/* Table */
+
+.problems-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.problems-table thead {
+  background: #6366f1;
+  color: white;
+}
+
+.problems-table th {
+  padding: 14px;
+  text-align: left;
+  font-size: 15px;
+}
+
+.problems-table td {
+  padding: 12px;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+
+/* Hover Effect */
+
+.problems-table tbody tr:hover {
+  background-color: #f3f4f6;
+  transition: 0.3s;
+}
+
+/* Difficulty Colors */
+
+.easy {
+  color: green;
+  font-weight: bold;
+}
+
+.medium {
+  color: orange;
+  font-weight: bold;
+}
+
+.hard {
+  color: red;
+  font-weight: bold;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  .problems-title {
+    font-size: 24px;
+  }
+
+  .problems-table th,
+  .problems-table td {
+    padding: 8px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,321 @@
+topic,count
+Array,134
+Dynamic Programming,119
+String,103
+Math,78
+Greedy,59
+Tree,54
+Hash Table,33
+"Tree,Depth-first Search",29
+Binary Search,22
+Bit Manipulation,21
+Linked List,20
+Stack,20
+"Array,Binary Search",19
+Backtracking,19
+Design,19
+Breadth-first Search,18
+"Array,Greedy",17
+"Array,Sort",17
+Depth-first Search,17
+"Array,Hash Table",16
+"Depth-first Search,Breadth-first Search",16
+"Math,Dynamic Programming",16
+"String,Dynamic Programming",14
+"Math,String",14
+"Array,Two Pointers",14
+Graph,14
+"String,Stack",12
+"Array,Dynamic Programming",11
+Two Pointers,11
+"String,Greedy",11
+"Hash Table,String",10
+"Hash Table,Math",10
+"Array,Math",10
+"Math,Binary Search",9
+"Tree,Depth-first Search,Breadth-first Search",9
+Sort,9
+"Hash Table,Design",9
+"Tree,Depth-first Search,Recursion",7
+"Dynamic Programming,Backtracking",7
+"Dynamic Programming,Greedy",7
+"Greedy,Sort",7
+"Array,Sliding Window",7
+"Linked List,Two Pointers",6
+"Two Pointers,String",6
+"Tree,Breadth-first Search",6
+"Dynamic Programming,Depth-first Search",6
+"Heap,Greedy",6
+"Depth-first Search,Union Find",6
+"Array,Backtracking",5
+"Stack,Design",5
+"Binary Search,Dynamic Programming",5
+Union Find,5
+"Breadth-first Search,Graph",5
+"Backtracking,Bit Manipulation",5
+"Depth-first Search,Graph",5
+"Dynamic Programming,Bit Manipulation",5
+Ordered Map,5
+"Math,Greedy",5
+"String,Bit Manipulation",5
+"Hash Table,Two Pointers,String,Sliding Window",4
+"Depth-first Search,Breadth-first Search,Graph",4
+"Hash Table,Bit Manipulation",4
+"Stack,Tree",4
+"Math,Bit Manipulation",4
+Divide and Conquer,4
+"Math,Recursion",4
+"Design,Queue",4
+Heap,4
+"Binary Search,Heap",4
+"Union Find,Graph",4
+"String,Sort",4
+Geometry,4
+"Tree,Recursion",4
+Trie,4
+"Depth-first Search,Union Find,Graph",4
+"Binary Search,Greedy",4
+"Array,String",4
+"Array,Hash Table,Two Pointers",3
+"Linked List,Recursion",3
+"Math,Backtracking",3
+"Dynamic Programming,Tree",3
+"Depth-first Search,Breadth-first Search,Union Find",3
+"Array,Two Pointers,Binary Search",3
+"Binary Search,Tree",3
+"Hash Table,Sort",3
+"Math,Sort",3
+"Tree,Design",3
+"Binary Search,Divide and Conquer,Sort,Binary Indexed Tree,Segment Tree",3
+"Dynamic Programming,Tree,Depth-first Search",3
+"Dynamic Programming,Minimax",3
+"Heap,Breadth-first Search",3
+"Two Pointers,Sliding Window",3
+"Hash Table,Binary Search",3
+"Hash Table,Tree",3
+"String,Tree",3
+"Hash Table,Trie",3
+"Segment Tree,Ordered Map",3
+"Array,Dynamic Programming,Sliding Window",3
+"Hash Table,Tree,Depth-first Search,Breadth-first Search",3
+"Array,Hash Table,Sort",3
+"Array,Design",3
+"Dynamic Programming,Graph",3
+"String,Backtracking",2
+"Hash Table,Two Pointers,String",2
+"Array,Two Pointers,Sort",2
+"Array,Stack",2
+"Array,Tree,Depth-first Search",2
+"Linked List,Depth-first Search",2
+"Array,Union Find",2
+"Linked List,Sort",2
+"Depth-first Search,Breadth-first Search,Graph,Topological Sort",2
+"Design,Trie",2
+"Backtracking,Trie",2
+"Depth-first Search,Breadth-first Search,Union Find,Graph",2
+"Graph,Topological Sort",2
+"Heap,Design",2
+"Binary Indexed Tree,Segment Tree",2
+"Math,Heap",2
+"String,Stack,Greedy",2
+"Hash Table,Heap",2
+"Hash Table,Two Pointers,Binary Search,Sort",2
+"Math,Dynamic Programming,Backtracking",2
+"Linked List,Design",2
+"Array,Hash Table,Design",2
+Reservoir Sampling,2
+"Stack,Depth-first Search",2
+"Stack,Greedy",2
+"Bit Manipulation,Trie",2
+"Binary Search,Random",2
+"Backtracking,Depth-first Search",2
+"Array,Depth-first Search",2
+"Tree,Depth-first Search,Binary Search Tree,Recursion",2
+"String,Recursion",2
+"Math,Dynamic Programming,Greedy",2
+"Hash Table,Depth-first Search,Breadth-first Search",2
+"Hash Table,Stack",2
+"Two Pointers,Greedy",2
+Brainteaser,2
+Recursion,2
+"Dynamic Programming,Heap",2
+"Dynamic Programming,Breadth-first Search",2
+"Tree,Depth-first Search,Breadth-first Search,Recursion",2
+"Hash Table,Two Pointers",2
+"Math,Union Find",2
+"String,Trie",2
+"String,Sliding Window",2
+Binary Search Tree,2
+"Array,Math,Greedy",2
+"Backtracking,Recursion",2
+"Linked List,Math,Recursion",1
+"Array,Binary Search,Divide and Conquer",1
+"String,Dynamic Programming,Backtracking",1
+"String,Backtracking,Depth-first Search,Recursion",1
+"Linked List,Divide and Conquer,Heap",1
+"Hash Table,Backtracking",1
+"Array,Two Pointers,Dynamic Programming,Stack",1
+"String,Dynamic Programming,Backtracking,Greedy",1
+"Array,Divide and Conquer,Dynamic Programming",1
+"Array,Backtracking,Bit Manipulation",1
+"Array,Hash Table,Dynamic Programming,Stack",1
+"Hash Table,Stack,Tree",1
+"Stack,Tree,Breadth-first Search",1
+"Array,String,Backtracking,Breadth-first Search",1
+"Dynamic Programming,Backtracking,Depth-first Search",1
+"Hash Table,Linked List",1
+"Array,Divide and Conquer,Bit Manipulation",1
+"Stack,Tree,Design",1
+"Tree,Depth-first Search,Breadth-first Search,Recursion,Queue",1
+"Backtracking,Depth-first Search,Design,Trie",1
+"Divide and Conquer,Heap",1
+"Divide and Conquer,Heap,Binary Indexed Tree,Segment Tree,Line Sweep",1
+"Sort,Ordered Map",1
+"Math,Stack",1
+"Heap,Sliding Window,Dequeue",1
+"Binary Search,Divide and Conquer",1
+"Heap,Greedy,Sort",1
+"Math,Dynamic Programming,Heap",1
+"Array,Math,Bit Manipulation",1
+"Math,Dynamic Programming,Breadth-first Search",1
+"Brainteaser,Minimax",1
+"Backtracking,Minimax",1
+"Divide and Conquer,Dynamic Programming",1
+"Math,Brainteaser",1
+"Depth-first Search,Topological Sort,Memoization",1
+"Hash Table,String,Trie",1
+"Binary Search,Ordered Map",1
+"Hash Table,Heap,Design",1
+"Hash Table,Heap,Greedy",1
+"Math,Two Pointers,Sort",1
+"Binary Search,Dynamic Programming,Queue",1
+Line Sweep,1
+"Binary Search,Dynamic Programming,Greedy",1
+"Divide and Conquer,Recursion,Sliding Window",1
+"Linked List,Divide and Conquer,Tree",1
+"Random,Rejection Sampling",1
+"Dynamic Programming,Depth-first Search,Trie",1
+"Math,Random,Rejection Sampling",1
+Sliding Window,1
+"Divide and Conquer,Dynamic Programming,Depth-first Search",1
+Random,1
+"String,Brainteaser",1
+"Two Pointers,Sort",1
+"Tree,Queue",1
+"Array,Greedy,Queue",1
+"String,Design",1
+"Tree,Union Find,Graph",1
+"Tree,Depth-first Search,Union Find,Graph",1
+"Hash Table,Heap,Trie",1
+"Dynamic Programming,Recursion",1
+"Hash Table,Binary Search,Sort,Random",1
+"Hash Table,Depth-first Search",1
+"Array,Dynamic Programming,Greedy",1
+"Array,Hash Table,Binary Search,Dynamic Programming",1
+"Array,Binary Search,Heap",1
+"Hash Table,Stack,Recursion",1
+"Dynamic Programming,Sliding Window",1
+"Heap,Depth-first Search,Breadth-first Search,Graph",1
+"Math,Depth-first Search",1
+"Bit Manipulation,Depth-first Search",1
+"Greedy,Union Find,Graph",1
+"String,Heap,Greedy,Sort",1
+"Hash Table,String,Stack",1
+"Binary Search,Heap,Depth-first Search,Union Find",1
+"Dynamic Programming,Heap,Breadth-first Search",1
+"Backtracking,Depth-first Search,Graph",1
+"Two Pointers,Dynamic Programming",1
+"String,Backtracking,Greedy",1
+Minimax,1
+"Two Pointers,Stack",1
+"Segment Tree,Line Sweep",1
+"Binary Search,Queue",1
+"Math,Dynamic Programming,Minimax",1
+"Math,Binary Search,Dynamic Programming",1
+"Breadth-first Search,Minimax",1
+"Math,Binary Search,Greedy",1
+Queue,1
+"Two Pointers,Greedy,Sort",1
+"Math,Geometry",1
+"Backtracking,Depth-first Search,Breadth-first Search,Recursion",1
+"Divide and Conquer,Heap,Sort",1
+"Dynamic Programming,Stack,Ordered Map",1
+"Hash Table,Two Pointers,Sliding Window",1
+"Greedy,Sliding Window",1
+"Math,Backtracking,Graph",1
+"Linked List,Stack",1
+"Hash Table,Binary Search,Suffix Array",1
+"Hash Table,Dynamic Programming",1
+"Heap,Sort",1
+"Hash Table,Greedy",1
+"Math,Two Pointers",1
+"Math,Tree",1
+"Dynamic Programming,Stack,Tree",1
+"Dynamic Programming,Depth-first Search,Graph",1
+"Dynamic Programming,Rolling Hash",1
+"Array,Binary Search,Segment Tree",1
+"String,Suffix Array",1
+"Array,String,Binary Search",1
+"Depth-first Search,Graph,Topological Sort",1
+"Hash Table,Math,Dynamic Programming",1
+"Math,Dynamic Programming,Brainteaser",1
+"Two Pointers,Sort,Line Sweep",1
+"Array,Math,Geometry",1
+"Binary Search,Dynamic Programming,Sort",1
+"Hash Table,Sort,Design",1
+"Array,Geometry",1
+"Array,Graph",1
+"Math,Line Sweep",1
+"Backtracking,Design",1
+"Greedy,Sort,Line Sweep",1
+"Linked List,Bit Manipulation",1
+"Sort,Tree",1
+"Depth-first Search,Breadth-first Search,Recursion",1
+"Hash Table,String,Breadth-first Search",1
+"String,Rolling Hash",1
+"Greedy,Sort,Segment Tree",1
+"Sort,Bit Manipulation",1
+"Linked List,Dynamic Programming,Tree",1
+"Dynamic Programming,Binary Search Tree",1
+"Sort,Graph",1
+"Bit Manipulation,Tree,Depth-first Search",1
+"Array,Bit Manipulation",1
+"Sort,Sliding Window",1
+"Array,Brainteaser",1
+"Array,Hash Table,Math",1
+"Binary Search,Bit Manipulation,Segment Tree",1
+Segment Tree,1
+"Array,Hash Table,Math,Binary Search",1
+"String,Ordered Map",1
+"Two Pointers,Geometry",1
+"Two Pointers,String,Greedy",1
+"String,Binary Search",1
+"Math,Design",1
+"Tree,Design,OOP",1
+"Binary Search,Depth-first Search,Union Find,Graph",1
+"Greedy,Union Find",1
+"Hash Table,String,Trie,Rolling Hash",1
+"Math,Greedy,Sort",1
+"Binary Search,Binary Indexed Tree,Segment Tree,Ordered Map",1
+"Two Pointers,Binary Search,Greedy,Sliding Window",1
+"Linked List,Design,Dequeue",1
+"Stack,Heap,Greedy,Queue",1
+"Heap,Ordered Map",1
+"Backtracking,Greedy",1
+"Two Pointers,Dynamic Programming,Segment Tree,Dequeue",1
+"Dynamic Programming,Sort",1
+Dequeue,1
+"Sort,Union Find",1
+"String,Trie,Rolling Hash,Suffix Array",1
+"Two Pointers,Binary Search",1
+"Tree,Graph",1
+"Greedy,Depth-first Search,Union Find",1
+"Dynamic Programming,Union Find,Graph",1
+"Greedy,Suffix Array",1
+"Divide and Conquer,Meet in the Middle",1
+"Array,Design,Dequeue",1
+"Math,Tree,Depth-first Search,Breadth-first Search",1
+"Math,Backtracking,Recursion",1
+"Dynamic Programming,Backtracking,Recursion",1
+"Heap,Depth-first Search,Graph",1
+"Heap,Design,Queue",1
