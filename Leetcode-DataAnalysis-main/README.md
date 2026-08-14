@@ -66,4 +66,4 @@ uvicorn main:app --reload
 
 ## Author
 
-gangothri
+Gangothri chinta
